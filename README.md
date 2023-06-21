@@ -1,2 +1,3 @@
 # Hierarchical-Clustering-project-of-mall-customers
 "Hierarchical Customer Segmentation Analysis for Mall Marketing Strategy: Unveiling Patterns and Insights through Hierarchical Clustering"
+# The hierarchical clustering process allowed us to identify distinct customer segments within the mall. The dendrogram visualization provided a clear understanding of the clustering structure and facilitated the determination of the optimal number of clusters. By analyzing the characteristics of each cluster, including average age, income, and spending score, we gained valuable insights into the different customer segments.
